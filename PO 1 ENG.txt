@@ -1,0 +1,151 @@
+Technology based on artificial intelligence is a key representation of Internet informationization. Its
+creation and use directly impact people's day-to-day activities and employment, as well as a nation's
+level of scientific and technical advancement. Therefore, it is essential to boost investment in, and
+research and development of, computer AI technologies in order to increase a nation's production.
+Since it contributes significantly to the growth of the national economy, science, and technology, it is
+also vital to improve its practical application [1]. The goal of intelligent and informational applications
+is achieved by combining computer technology and artificial intelligence technology in an organic
+way so that they complement one another. The level of intelligence and knowledge in many businesses
+is continually rising thanks to the quick development of artificial intelligence technologies. As an
+advanced technology, it will open up new development avenues and quicken the pace of scientific and
+technical advancement. Additionally, computer AI technology can carry out specific tasks in
+accordance with the human brain. As science and technology advance, this technology will become
+more complex and have a broader range of applications, but for the time being, there is still a lot of
+room for development [2].
+In this paper, the author introduces and the classification and development of computer AI
+technology. Besides, its application and development trends in different fields are also analyzed. This
+paper can help improve the promotion of computer AI technology in China.
+2. Classification of computer AI technology
+computer AI technology can imitate the human thinking mode and continue to expand the computer
+thinking mode. The following sections introduce the classification of computer AI technology.
+2.1. Cognitive AI
+In the field of artificial intelligence, the development of cognitive computing as the core has laid a
+solid foundation. With the help of cognitive computing, computers can simply communicate with
+people and solve some basic problems. In addition, with the development of data mining, analysis,
+acquisition, and other technologies, its scope of application will be greatly improved [3].
+2.2. Machine learning AI
+Machine learning is one of the three levels of current computer AI technology. Take driverless cars for
+example, by using artificial intelligence, a car can be driven on the road without a driver. With the
+development of AI, its use will be more and more extensive, which will have a far-reaching impact on
+people's life and work. With the help of large databases, artificial intelligence can find the
+development track of data through data analysis and make corresponding judgments, so that the
+computer has an independent judgment function [4].
+2.3. Deep learning AI
+Deep learning is a cutting-edge technology beyond machine learning. It is a huge network composed
+of massive data and disordered data, just like the neural network in the brain. Therefore, it can also be
+called a "neural network". With the development of artificial intelligence technology, deep learning
+can not only be applied to the field of language and image analysis but can also be used to
+communicate with users, sign contracts, and so on, acting as an assistant in people’s life and work [5].
+3. The development of computer AI technology
+3.1. Initial stage
+In the 1950s, relevant researchers made a conceptual interpretation of computer AI technology, and
+with the further deepening of research, related research has entered a new stage [6]. For example,
+relevant scientists have developed machine theorems and LISt Processing (LISP) languages, which lay
+a research foundation for subsequent development. However, restricted by the technical conditions at
+that time, computer AI technology developed slowly.
+3.2. Application phase
+The use of computer AI technology has gained popularity since the 1970s and has emerged as a key
+technical foundation for the creation of intelligent expert systems. The use of intelligent expert
+systems in China has received high accolades and has been crucial in advancing the country's
+development of computer technology. The intelligent expert system still has several flaws, which
+restrict the advancement of artificial intelligence in computers. It is vital to step up efforts to address
+issues and improve the accuracy and dependability of the intelligent expert system [7].
+3.3. Integration phase
+As modern science and technology continued to advance in the 1990s, computer AI technology
+gradually moved into the integration stage. The expert system's functionality has also been improved,
+and it can now incorporate a variety of functions, considerably expanding its range of potential
+applications. Simultaneously, as big data technology advances, computer AI technology will
+inevitably become more sophisticated, shattering existing restrictions in the sector and moving into a
+phase of rapid development [8].
+4. Application of computer AI technology
+4.1. Application in the field of unmanned driving
+In the part of programmed driving, by utilizing man-made consciousness innovation, the computer can
+naturally design the running course of the vehicle and consequently control the vehicle as per the
+client's requirements, with the goal that it can arrive at the objective easily. Additionally, the
+automobile can be remotely controlled in accordance with the computer's operational requirements by
+making use of the computer's intelligent technology [9]. For instance, the purpose of controlling the
+spacecraft remotely can be accomplished by utilizing work-related computer settings and artificial
+intelligence technology for remote control. The control's accuracy is higher than that of manual
+operation, ensuring the spacecraft's safety and lowering the risk of operation.
+4.2. Application in the field of medical diagnosis
+The advancement of computer AI technology has the potential to have a significant impact on medical
+research. For instance, in terms of medical diagnosis, a computer-based artificial intelligence
+technology can be used to analyze the patient's symptoms, obtain accurate diagnostic results, and
+enhance the process of medical diagnosis and treatment by collecting a large amount of patient data.
+Because of the constraints of customary clinical ideas, a few patients are as yet incredulous about the
+demonstrative finishes of computers. People need to be aware of the fact that the development of
+computer AI technology will unavoidably alter the manner in which the medical staff works, and they
+need to be willing to accept the new changes brought about by this technology in order to improve the
+overall level of medicine [10].
+4.3. Application in the field of scientific research
+Since the wise innovation of computer has strong sensible reasoning, the utilization of this innovation
+in logical examination can speed up the advancement of related research, work on the speed of change,
+and produce tremendous financial advantages. The use of computer AI technology enables in-depth
+problem analysis and the development of practical solutions for the use of scientific researchers. The
+development of the database is closely linked to the computer's capacity for logical reasoning. Making
+full use of the data in the database can help the computer analyze the problem more effectively and
+identify the problem's automatic generation. The use of computer-based artificial intelligence
+technology in scientific research has the potential to speed up problem processing and boost research
+efficiency.
+4.4. Application in the field of problem solving
+There will always be issues that need to be resolved right away in people's work and personal lives.
+People need to use a variety of approaches to find the solution to the problem in order to solve it
+quickly. However, it typically takes a lot of time. Under this present circumstance, with the assistance
+of computer man-made brainpower innovation, an issue recovery framework can be constructed. The
+system makes it easier for people to find solutions to related problems, making problem-solving more
+effective. Additionally, problems that need to be retrieved can be automatically completed with the
+assistance of perception technology and computer AI technology. This makes problem-solving as a
+whole more approachable. The technical level currently limits the retrieval of complex problems, and
+computer AI technology is still difficult to achieve. However, as technology continues to advance, it is
+likely that computer AI technology will one day be able to quickly and effectively resolve complex
+issues.
+5. Development trend of computer AI technology
+Machine learning, machine intelligence, and artificial intelligence are the three levels of current
+computer AI technology. From the analysis of the development of computer AI technology, it can be
+seen that due to the limitations of current technical conditions, artificial intelligence technology will
+remain in the stage of machine learning for a long time and many technical barriers need to be broken
+before it can truly enter the stage of artificial intelligence. At this stage, machine learning needs to be
+carried out within the controllable range of variables. Simply speaking, the development trend of
+computer AI technology can be summarized as follows:
+5.1. Development of smart chip
+The development of smart chips will greatly promote computer AI technology. Because of a lot of
+work to be dealt with, the computing power of the general CPU is limited, and it is difficult to make
+full use of it in practical applications. The development of a special AI chip can improve the operation
+speed of the training mode, enhance the intelligent operation ability in multiple working environments,
+and reduce the response time of the system. The development of smart chip also has great application
+potential in the field of automatic driving. To take the opportunity and vigorously develop automatic
+driving technology, it is necessary to highly combine computer AI technology with automobile system,
+focus on developing intelligent chips for automobile automatic driving, optimize intelligent driving
+algorithms, improve the intelligent level of automobiles, and make sufficient technical reserves to
+achieve the development goal of automatic driving. As far as the current technology level is concerned,
+there are still many areas to be improved urgently in automatic driving technology, such as intelligent
+algorithms and vehicle hardware and software. The ideal automatic driving technology of automobile
+should not only have the function of automatically analyzing the traffic changes, but also with the
+function of dynamic interaction and active perception, which leaves a huge space for researchers to
+explore and experiment.
+5.2. Optimization of facial features
+The precise location of human face has always been a challenging field for scientific research. In order
+to ensure a safe life and work environment for people, there are more and more surveillance cameras
+appearing in the surroundings. By using the high-precision features of human faces, the accurate
+recognition of human face features can be carried out on the crowd so that the occurrence of crimes
+can be prevented to a large extent. In addition, due to the rapid development of the mobile payment
+industry, the function of item management payment can be realized only by facial features. Since there
+is a growing demand for face recognition technology, the optimization of facial features is also a
+development trend of computer AI technology.
+5.3. The practice of integrating intelligent technology into the Internet
+The rapid development of 5G has laid a solid foundation for the establishment of the Internet of
+Things, which can be combined with the intelligent technology of computers to interconnect various
+electronic products and expand their application fields. At the same time, the use of large-scale
+Internet of Things technology and artificial intelligence technology can further improve the
+intelligence of intelligent systems through a large number of information technologies. With the
+development of artificial intelligence and the gradual improvement of 5G network, the integration of
+artificial intelligence technology and high-speed network can achieve remote medical services. No
+matter where patients are, medical experts can use the network to complete diagnosis or surgery, thus
+reducing the cost of medical services. Meanwhile, with the continuous development of robot
+technology, the traditional time-consuming and laborious artificial medical service can be replaced by
+intelligent robots in the future.
+6. Conclusion
+This paper elaborates the classification, development, application, and trend of computer AI
+technology. To sum up, computer AI technology is much more powerful than human thinking ability,
+so there is a lot of room for its development. At present, the academic world and large network
+manufacturers all attach great importance to computer AI technology, and governments have also 

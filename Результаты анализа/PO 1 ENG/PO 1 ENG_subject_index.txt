@@ -1,0 +1,91 @@
+ПРЕДМЕТНЫЙ (ТЕРМИНОЛОГИЧЕСКИЙ) УКАЗАТЕЛЬ
+
+(отредактированная версия)
+
+============================================================
+
+1. ОТДЕЛЬНЫЕ ТЕРМИНЫ
+
+artificial
+intelligence
+computer
+computing
+technology
+technologies
+application
+applications
+system
+systems
+machine
+learning
+deep
+neural
+network
+data
+database
+processing
+analysis
+classification
+cognitive
+automatic
+intelligent
+expert
+diagnosis
+medical
+research
+scientific
+innovation
+integration
+development
+accuracy
+features
+control
+internet
+smart
+chip
+vehicle
+driving
+reasoning
+
+Всего терминов: 40
+
+2. ДВУХСЛОВНЫЕ СЛОВОСОЧЕТАНИЯ
+artificial intelligence
+machine learning
+deep learning
+neural network
+computer technology
+intelligent system
+expert system
+cognitive computing
+automatic driving
+driving technology
+medical diagnosis
+scientific research
+problem solving
+facial features
+smart chip
+internet of things
+
+Всего двухсловных словосочетаний: 16
+
+3. ТРЕХСЛОВНЫЕ СЛОВОСОЧЕТАНИЯ
+artificial intelligence technology
+development of artificial intelligence
+automatic driving technology
+intelligent expert system
+computer based artificial intelligence
+optimization of facial features
+
+Всего трехсловных словосочетаний: 6
+
+4. АББРЕВИАТУРЫ
+
+AI — Artificial Intelligence
+CPU — Central Processing Unit
+LISP — List Processing
+
+Всего аббревиатур: 3
+
+============================================================
+ОБЩЕЕ КОЛИЧЕСТВО ПОНЯТИЙ: 65
